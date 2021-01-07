@@ -6,3 +6,5 @@ github.com/tomedme/greetings v1.0.0 h1:fJQQA1YZONhZRGHq1CJSi5i+bUfqbFIU/l0NN4Z4l
 github.com/tomedme/greetings v1.0.0/go.mod h1:HsiQoPkO24kGb0Fc9YOH1VvPznkOvLpRBVEadeexNpA=
 github.com/tomedme/greetings v1.1.0 h1:XyfgBz+csB63gOGqmlxhzOf4WE4hJndircWkP8QLqV4=
 github.com/tomedme/greetings v1.1.0/go.mod h1:HsiQoPkO24kGb0Fc9YOH1VvPznkOvLpRBVEadeexNpA=
+github.com/tomedme/greetings v1.2.0 h1:MbeSl6Wa5t8SmloGy15dE9fnaSvpTgKo/lpfMRn8ZzI=
+github.com/tomedme/greetings v1.2.0/go.mod h1:HsiQoPkO24kGb0Fc9YOH1VvPznkOvLpRBVEadeexNpA=

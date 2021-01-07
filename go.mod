@@ -2,4 +2,4 @@ module hello
 
 go 1.15
 
-require github.com/tomedme/greetings v1.1.0
+require github.com/tomedme/greetings v1.2.0
